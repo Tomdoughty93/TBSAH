@@ -1,0 +1,61 @@
+h1, p{
+    color: #5b5550;
+    font-family: 'Playfair Display', serif;
+}
+
+h3{
+    color: #5b5550;
+    font-style: italic;
+
+}
+
+hr{
+    color: #fffff0;
+}
+
+
+#title{
+    padding: 7% 15% 10%;
+    text-align: center;
+    position: relative;
+    background-color: #9fc7aa;
+}
+.navbar{
+    background-color: #9fc7aa;
+}
+
+#footer{
+    background-color: #9fc7aa;
+    text-align: center;
+    position: relative;
+    color: #fffff0;
+    padding: 3%;
+
+}
+
+.big_heading{
+    margin-top: 5rem;
+    font-family: cursive;
+    font-size: 5rem;
+    text-align: center;
+    font-family: 'Playfair Display SC', serif;
+    color: #fffff0;
+}
+
+.logo{
+    width: 85%;
+}
+
+#products{
+    background-color: #fffff0;
+    text-align: center;
+    position: relative;
+}
+
+.me{
+    padding-top: 3%;
+}
+.bodyshop{
+    padding-top: 3%;
+    padding-bottom: 3%;
+}
